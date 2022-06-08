@@ -1,4 +1,4 @@
-import TileMap from "/Mapa.js";
+import TileMap from "./Mapa.js";
 
 const tileSize = 32;
 const velocity = 2;
